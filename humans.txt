@@ -3,10 +3,10 @@
 
 
 /* TEAM */
-  <your title>: <your name>
-  Site:
-  Twitter:
-  Location:
+  Programmer: Steve Bryant
+  Site: http://www.bryantwebconsulting.com/
+  Twitter: @sebtools
+  Location: Broken Arrow, OK
 
 /* THANKS */
   Names (& URL):
